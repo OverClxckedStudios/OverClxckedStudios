@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 My name is ClxckedDev
 
-<!--
-**OverClxckedStudios/OverClxckedStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently looking to collaberate on multiple discord and minecraft prokects such as:
+- Servers
+- Communities
+- Bot setups
+- Server Configurations
+- Media
+- Staff Management
+And Administration.
 
-Here are some ideas to get you started:
+I am currently working on the following:
+- Haven
+- Atlas
+- MineCave
+- Void
+And many more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am retired from:
+- Hyrise Network MC
+- Trench Network MC
+
+About me:
+- 16
+- Female
+- Transgender (Femme)
+- Aspiring Developer
+- Configurator
+- Irish
+
+Contact me:
+Discord: @overclxckedstudios
+Portfolio coming soon
+BBB coming soon
