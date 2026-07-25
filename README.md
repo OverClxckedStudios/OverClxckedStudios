@@ -14,6 +14,7 @@ I am currently working on the following:
 - Atlas | Founder
 - MineCave | Assistant Director
 - Void | Managers Assistant
+- Tropic | Admin
 And many more!
 
 I am retired from:
