@@ -22,6 +22,9 @@ I am retired from:
 - Hyrise Network MC | Admin
 - Trench Network MC | Founder
 
+I have applied for:
+- Knight
+
 Strengths:
 - Teamwork
 - Leadership
