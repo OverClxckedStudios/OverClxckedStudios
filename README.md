@@ -39,6 +39,10 @@ Weaknesses:
 - Not the best with emotions
 - Not good with conflicts of interest
 
+Who can vouch me?:
+- Chawks
+- Milkylol
+
 About me:
 - 16
 - Female
