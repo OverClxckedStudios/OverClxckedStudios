@@ -42,6 +42,7 @@ Weaknesses:
 Who can vouch me?:
 - Chawks
 - Milkylol
+- Dev
 
 About me:
 - 16
