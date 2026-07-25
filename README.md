@@ -12,6 +12,7 @@ And Administration.
 I am currently working on the following:
 - Haven | Founder
 - Atlas | Founder
+- Harvest USA | Owner
 - MineCave | Assistant Director
 - Void | Managers Assistant
 - Tropic | Admin
