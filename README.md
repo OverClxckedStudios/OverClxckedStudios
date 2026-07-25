@@ -22,6 +22,20 @@ I am retired from:
 - Hyrise Network MC | Admin
 - Trench Network MC | Founder
 
+Strengths:
+- Teamwork
+- Leadership
+- Initiative
+- Operation control
+- Patience
+- Collaboration
+- Good under pressure
+
+Weaknesses:
+- Selectively mute
+- Not the best with emotions
+- Not good with conflicts of interest
+
 About me:
 - 16
 - Female
