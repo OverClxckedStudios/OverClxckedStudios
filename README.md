@@ -22,6 +22,9 @@ I am retired from:
 - Hyrise Network MC | Admin
 - Trench Network MC | Founder
 
+I have been fired from:
+- RocketSMP | Configurator
+
 I have managed:
 - Over 30 tickets
 - 2200 Players
