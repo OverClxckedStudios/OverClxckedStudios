@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is ClxckedDev
 
-I am currently looking to collaberate on multiple discord and minecraft prokects such as:
+I am currently looking to collaberate on multiple discord and minecraft projects such as:
 - Servers
 - Communities
 - Bot setups
@@ -32,5 +32,6 @@ About me:
 
 Contact me:
 Discord: @overclxckedstudios
+Email: overclxcked@proton.me
 Portfolio coming soon
 BBB coming soon
