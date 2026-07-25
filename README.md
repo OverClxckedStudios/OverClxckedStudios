@@ -10,15 +10,15 @@ I am currently looking to collaberate on multiple discord and minecraft prokects
 And Administration.
 
 I am currently working on the following:
-- Haven
-- Atlas
-- MineCave
-- Void
+- Haven | Founder
+- Atlas | Founder
+- MineCave | Assistant Director
+- Void | Managers Assistant
 And many more!
 
 I am retired from:
-- Hyrise Network MC
-- Trench Network MC
+- Hyrise Network MC | Admin
+- Trench Network MC | Founder
 
 About me:
 - 16
