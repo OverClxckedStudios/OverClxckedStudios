@@ -22,6 +22,11 @@ I am retired from:
 - Hyrise Network MC | Admin
 - Trench Network MC | Founder
 
+I have managed:
+- Over 30 tickets
+- 2200 Players
+In the span of 3 months in moderation.
+
 I have applied for:
 - Knight
 
