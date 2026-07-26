@@ -79,8 +79,8 @@ In the span of 3 months in moderation.
 - Collaboration
 - Good under pressure
 
-**Weaknesses:
-## - Selectively mute
+## Weaknesses:
+- Selectively mute
 - Not the best with emotions
 - Not good with conflicts of interest
 
