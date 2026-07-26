@@ -36,6 +36,10 @@ Unit: Administration
 Title: Admin
 And many more!
 
+Server: Static
+Unit: Moderation
+Title: TBD
+
 ## I am retired from:
 
 Server: Hyrise
