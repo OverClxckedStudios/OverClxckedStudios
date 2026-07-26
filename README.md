@@ -52,6 +52,7 @@ Weaknesses:
 - Not good with conflicts of interest
 
 Who can vouch me?:
+All vouches are posted with the voucher's concent and knoledge.
 - Chawks
 - Milkylol
 - Dev
