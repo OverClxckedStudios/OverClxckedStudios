@@ -1,12 +1,12 @@
-**<div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=Hey%2C+I'm+Lily.;Minecraft+Staff+%7C+Server+Manager.;Open+for+new+jobs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=Hey%2C+I'm+Lily.;Minecraft+Staff+%7C+Server+Manager.;Founder+of+Atlas+Network" alt="Typing SVG" />
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" />
 
-</div>**
+</div>
 
 # ATLAS MC
 I am the brains behind the MC network Atlas, a astro-themed minecraft network with earth towny and custom plugins such as AtlasPunishments, AtlasTownyWars, AtlasNationWard, AtlasCrates, and MANY MORE custom plugins as well! Fully sypported for 1.21.11+ and preset with the Via plugins for compatability. With custom servers for community, staff, and appeals! We plan to launch this year (Late 2026) once we make all our custom plugins.
