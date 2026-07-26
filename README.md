@@ -26,7 +26,7 @@ I have been fired from: (I think honesty is important.)
 - RocketSMP | Configurator
 Lack of commitment
 
-- Mortal
+- Mortal | Trial Mod
 Arguement with management.
 
 I have managed:
