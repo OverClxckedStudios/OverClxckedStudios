@@ -8,7 +8,7 @@
 
 </div>
 
-# ATLAS MC
+# ATLAS MC - GROUND UP PROJECT
 I am the brains behind the MC network Atlas, a astro-themed minecraft network with earth towny and custom plugins such as AtlasPunishments, AtlasTownyWars, AtlasNationWard, AtlasCrates, and MANY MORE custom plugins as well! Fully sypported for 1.21.11+ and preset with the Via plugins for compatability. With custom servers for community, staff, and appeals! We plan to launch this year (Late 2026) once we make all our custom plugins.
 
 # WHO AM I?
