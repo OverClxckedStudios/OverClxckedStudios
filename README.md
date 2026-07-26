@@ -10,24 +10,53 @@ I am currently looking to collaberate on multiple discord and minecraft projects
 And Administration.
 
 I am currently working on the following:
-- Haven | Founder
-- Atlas | Founder
-- Harvest USA | Owner
-- MineCave | Assistant Director
-- Void | Managers Assistant
-- Tropic | Admin
+
+Server: Haven
+Unit: Management
+Title: Founder
+
+Server: Atlas
+Unit: Management
+Title: Founder
+
+Server: Harvest USA and UK
+Unit: Management
+Title: Owner
+
+Server: MineCave
+Unit: Management
+Title: Assistant Director
+
+Server: Void
+Unit: Management
+Title: Assistant
+
+Server: Tropic
+Unit: Administration
+Title: Admin
 And many more!
 
 I am retired from:
-- Hyrise Network MC | Admin
-- Trench Network MC | Founder
+
+Server: Hyrise
+Unit: Administration and Events
+Title: Admin and Event Lead
+
+Server: Trench Network MC
+Unit: Management
+Title: Founder
 
 I have been fired from: (I think honesty is important.)
-- RocketSMP | Configurator
-Lack of commitment
 
-- Mortal | Trial Mod
-Arguement with management.
+Servcer: Rocket
+Unit: Development
+Title: Configurator
+Reason: Lack of commitment
+
+Server: Mortal
+Unit: Moderation
+Title: Trial Mod
+Reason: Arguement with Management
 
 I have managed:
 - Over 30 tickets
