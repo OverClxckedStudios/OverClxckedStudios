@@ -22,8 +22,12 @@ I am retired from:
 - Hyrise Network MC | Admin
 - Trench Network MC | Founder
 
-I have been fired from:
+I have been fired from: (I think honesty is important.)
 - RocketSMP | Configurator
+Lack of commitment
+
+- Mortal
+Arguement with management.
 
 I have managed:
 - Over 30 tickets
